@@ -1,8 +1,8 @@
 # Identification
 
-* Given items:
+## Given items:
 - window size(fixed/variable)
-- varray/string
+- array/string
 - To find out subarray/substring(elements order cannot change and elements are coninous)
 - maximum/minimum/smallest/largest
 
